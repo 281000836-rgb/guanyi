@@ -1,0 +1,14 @@
+{
+  "name": "guanyi-open-kit",
+  "version": "0.1.0",
+  "description": "Privacy-first traditional culture observation toolkit for web and mini-program projects.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "scripts": {
+    "test": "node --test",
+    "demo": "npx serve demo"
+  },
+  "keywords": ["traditional-culture", "seasonal-rhythm", "privacy-first", "mini-program"],
+  "license": "MIT"
+}
